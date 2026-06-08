@@ -1,16 +1,38 @@
-## Hi there 👋
+# ⋆｡˚ ˗ˏˋ ♡ welcome to leaf's workshop ♡ ˎˊ˗ ˚｡⋆
 
-<!--
-**antikitten/antikitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⋆˚࿔ ⋆౨ৎ˚⟡.• ⋆ ｡˚ ☁︎ ˚｡ ⋆ •.⟡˚౨ৎ ⋆ ࿔˚⋆
 
-Here are some ideas to get you started:
+*✿ ｡ﾟ a cosy corner of things i make, break & remake ﾟ｡ ✿*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⋆ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆
+
+---
+
+## ⋆｡‧˚ʚ ♡ about me ♡ ɞ˚‧｡⋆
+
+> ୨୧ ⟡ hi, i'm **leaf** ⊹ ˚.♡
+> ୨୧ ⟡ i currently programme, design, & 3d print devices ✿
+> ୨୧ ⟡ currently tinkering in **OpenSCAD** & learning as i go ⊹
+> ୨୧ ⟡ powered by tea, infill, & the occasional failed print ☁︎˚
+
+---
+
+## ⋆｡‧˚ʚ ✿ what lives here ✿ ɞ˚‧｡⋆
+
+> ୨୧ ⟡ models, scripts & opensource experiments ⋆˚
+> ୨୧ ⟡ everything has setup notes in its README ♡
+> ୨୧ ⟡ currently working on a medical device ⊹˚｡
+
+---
+
+## ⋆｡‧˚ʚ ⟡ find me ⟡ ɞ˚‧｡⋆
+
+> ୨୧ ⟡ ✦ `@antikitten` ⊹
+
+---
+
+⋆｡˚ ☁︎ ˚｡⋆୨୧˚ ⋆ ˚｡⋆ ౨ৎ ⋆ ˚｡⋆ ୨୧˚ ⋆｡˚ ☁︎ ˚｡⋆
+
+⊹ ˚. ✿ ***happy making*** ✿ .˚ ⊹
+
+⋆˚࿔ ⋆౨ৎ˚⟡ ｡ﾟ♡ ﾟ｡ ⟡˚౨ৎ ⋆ ࿔˚⋆
