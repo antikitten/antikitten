@@ -2,7 +2,7 @@
 
 ⋆˚࿔ ⋆౨ৎ˚⟡.• ⋆ ｡˚ ☁︎ ˚｡ ⋆ •.⟡˚౨ৎ ⋆ ࿔˚⋆
 
-*✿ ｡ﾟ a cosy corner of things i make, break & remake ﾟ｡ ✿*
+*✿ ｡ﾟ a cosy corner of things i make, break, & remake ﾟ｡ ✿*
 
 ⋆ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆
 
